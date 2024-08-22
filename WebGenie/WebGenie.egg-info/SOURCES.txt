@@ -1,0 +1,8 @@
+setup.py
+WebGenie/__init__.py
+WebGenie/__main__.py
+WebGenie.egg-info/PKG-INFO
+WebGenie.egg-info/SOURCES.txt
+WebGenie.egg-info/dependency_links.txt
+WebGenie.egg-info/entry_points.txt
+WebGenie.egg-info/top_level.txt

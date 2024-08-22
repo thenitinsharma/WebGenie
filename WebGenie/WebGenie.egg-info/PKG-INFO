@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: WebGenie
+Version: 0.1.0
+Summary: A CLI tool to create basic web development project structure with boilerplate code.
+Home-page: https://github.com/yourusername/webproject-cli
+Author: Nitin Kumar Sharma
+Author-email: nitin.860sharma@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+WebProject CLI is a Python package that generates a basic web development project structure with boilerplate code. 
+
+## Installation
+
+You can install the package using pip:
+
+```bash
+pip install WebGenie

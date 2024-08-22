@@ -1,0 +1,2 @@
+[console_scripts]
+WebGenie = WebGenie._main_:main
