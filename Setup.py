@@ -12,7 +12,7 @@ setup(
     packages=find_packages(),
     entry_points={
         "console_scripts": [
-            "WebGenie=WebGenie._main_:main",
+            "WebGenie=WebGenie.__main__:main",
         ],
     },
     classifiers=[
