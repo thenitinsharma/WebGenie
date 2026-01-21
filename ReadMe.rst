@@ -2,9 +2,6 @@
 
 |PyPI| |PythonVersion| |License| |Build| |CodeStyle|
 
-.. |PyPI| image:: https://img.shields.io/pypi/v/webgenie
-   :target: https://pypi.org/project/webgenie/
-
 .. |PythonVersion| image:: https://img.shields.io/pypi/pyversions/webgenie
    :target: https://pypi.org/project/webgenie/
 
@@ -201,3 +198,4 @@ If you use WebGenie in your project or research, attribution is appreciated:
 ::
 
     WebGenie – Created by Nitin Kumar Sharma
+
