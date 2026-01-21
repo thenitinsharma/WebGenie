@@ -2,6 +2,9 @@
 
 |PyPI| |PythonVersion| |License| |Build| |CodeStyle|
 
+.. |PyPI| image:: https://img.shields.io/pypi/v/webgenie
+   :target: https://pypi.org/project/webgenie/
+
 .. |PythonVersion| image:: https://img.shields.io/pypi/pyversions/webgenie
    :target: https://pypi.org/project/webgenie/
 
@@ -13,9 +16,6 @@
 
 .. |CodeStyle| image:: https://img.shields.io/badge/code%20style-pep8-blue
    :target: https://peps.python.org/pep-0008/
-
-.. image:: https://raw.githubusercontent.com/thenitinsharma/WebGenie/main/assets/webgenie-logo.png
-   :target: https://github.com/thenitinsharma/WebGenie
 
 **WebGenie** is a lightweight Python CLI tool that instantly generates a
 complete, production-ready web development project structure with
@@ -67,7 +67,7 @@ User Installation
 
 The easiest way to install WebGenie is using ``pip``::
 
-    pip install webgenie
+    pip install WebGenie
 
 
 Usage
@@ -75,7 +75,8 @@ Usage
 
 After installation, create a new project by running::
 
-    webgenie create my_project
+   WebGenie 
+Now After that provide basic details of project like Name,Framework etc.
 
 This will generate a structured web project directory with ready-to-use files.
 
@@ -198,4 +199,3 @@ If you use WebGenie in your project or research, attribution is appreciated:
 ::
 
     WebGenie – Created by Nitin Kumar Sharma
-
